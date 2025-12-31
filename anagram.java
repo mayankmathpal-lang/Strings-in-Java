@@ -6,7 +6,7 @@ public class anagram {
 		// TODO Auto-generated method stub
           String s1="Race";
           String s2="CaRe";
-//            Anagram- Same letters are used words in both the sentences.
+//            Anagram- Same letters are used in both the sentences.
           s1=s1.toLowerCase();
           s2=s2.toLowerCase();
           
